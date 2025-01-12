@@ -6,7 +6,7 @@ As a passionate Software developer, I have been on a coding journey for the last
 
 * 🌍 Proudly based in India  
 * ✉️ Get in touch: abhishekradadiya0749@gmail.com  
-* 🧠 Expanding my knowledge in High-Level Design (HLD) and Low-Level Design (LLD) principles. 
+* 🧠 Expanding my knowledge in JAVA and SpringBoot along with deployment using AWS. 
 * 🤝 Excited to collaborate on innovative projects  
 * ⚡ Fun fact: ChatGPT is my best friend!
 
